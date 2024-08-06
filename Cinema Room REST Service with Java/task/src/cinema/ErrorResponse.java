@@ -4,7 +4,6 @@ public class ErrorResponse {
 
     private String error;
     public ErrorResponse() {
-        // Default constructor needed for deserialization
     }
 
     public ErrorResponse(String error) {
