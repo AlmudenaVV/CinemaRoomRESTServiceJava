@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room REST Service with Java/*
+!/Cinema Room REST Service with Java/task/
+/Cinema Room REST Service with Java/task/*
+!/Cinema Room REST Service with Java/task/src
+!/Cinema Room REST Service with Java/task/build.gradle
+
+# Project exclude paths
+/Topics/Arrays as parameters/Sorting numbers/out/
+/Topics/Arrays as parameters/Sorting numbers/out/production/classes/
